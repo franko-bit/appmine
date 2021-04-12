@@ -1,0 +1,26 @@
+.logint {
+  background: blue;
+  margin: 0px;
+  padding: 0px;
+  font-size: 26px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: white;
+  position: absolute;
+  left: 30rem;
+  top: 3rem;
+  width: 20rem;
+}
+.one {
+  position: absolute;
+  left: 30rem;
+  top: 7rem;
+  width: 20rem;
+}
+.lab {
+  font-size: 20px;
+}
+.nu {
+  background: blue;
+  color: white;
+}

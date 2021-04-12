@@ -1,0 +1,7 @@
+body {
+  background: rgb(255, 241, 47);
+}
+
+.App .sign input {
+  margin: 1rem;
+}
